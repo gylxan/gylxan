@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; width: 100%;">
+<div align="center">
     <img src="https://cdn.sanity.io/images/1w2l40us/production/4b65ccd880c6dfc074d133c35d889bd0ecfd8625-2837x2864.png?w=450&fit=clip&auto=format" style="width: 300px" alt="profile-picture"/>
 </div>  
 
@@ -58,7 +58,7 @@
 <br/>  
 
 ## Connect with me
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div align="center">
     <a href="https://github.com/glyxan" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" />
     </a>
