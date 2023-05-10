@@ -1,14 +1,15 @@
-<div align="center">
-    <img src="https://cdn.sanity.io/images/1w2l40us/production/4b65ccd880c6dfc074d133c35d889bd0ecfd8625-2837x2864.png?w=450&fit=clip&auto=format" align="center" style="width: 100%" />
+<div style="display: flex; justify-content: center; width: 100%;">
+    <img src="https://cdn.sanity.io/images/1w2l40us/production/4b65ccd880c6dfc074d133c35d889bd0ecfd8625-2837x2864.png?w=450&fit=clip&auto=format" style="width: 300px" alt="profile-picture"/>
 </div>  
 
-
 ### <div align="center">I'm Guido, a passionate frontend developer specialized in building digital products ✨</div>
-
+<br />
 
 - 🚆 I’m currently working for [DB Systel GmbH](https://www.dbsystel.de/dbsystel)
 
 - 💻 In my free time I mostly code at [my portfolio](https://github.com/glyxan/portfolio)
+
+<br/>
 
 ## Tech stack and skills
 <div>  
@@ -43,8 +44,12 @@
     <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/nginx" alt="nginx" height="50" /></a>  
 </div>
 
-## Github Stats
-<div><img src="https://github-readme-stats.vercel.app/api?username=gylxan&show_icons=true&theme=city_lights&count_private=true&hide_border=true" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylxan&theme=city_lights&layout=compact&hide_border=true" /></div>
+## GitHub Stats
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=gylxan&show_icons=true&theme=city_lights&count_private=true&hide_border=true" alt="github-stats" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylxan&theme=city_lights&layout=compact&hide_border=true" alt="top-lang-stats"/>
+</div>
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gylxan&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=467&background=1D252C&ring=527C9D&currStreakNum=4798FF&fire=4798FF&sideLabels=718CA1&currStreakLabel=718CA1)](https://git.io/streak-stats)
@@ -53,12 +58,12 @@
 <br/>  
 
 ## Connect with me
-<div align="center">
-<a href="https://github.com/glyxan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/guido-lange-1217a71b8" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<div style="display: flex; justify-content: center; gap: 1rem;">
+    <a href="https://github.com/glyxan" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" />
+    </a>
+    <a href="https://linkedin.com/in/guido-lange-1217a71b8" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" />
+    </a>  
 </div>  
 
