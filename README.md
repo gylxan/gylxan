@@ -45,12 +45,9 @@
 </div>
 
 ## GitHub Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gylxan&show_icons=true&theme=city_lights&count_private=true&hide_border=true" alt="github-stats" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylxan&theme=city_lights&layout=compact&hide_border=true" alt="top-lang-stats"/>
-</div>
-<br />
+[![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=gylxan&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gylxan&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gylxan&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=467&background=1D252C&ring=527C9D&currStreakNum=4798FF&fire=4798FF&sideLabels=718CA1&currStreakLabel=718CA1)](https://git.io/streak-stats)
 
